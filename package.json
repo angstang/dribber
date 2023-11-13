@@ -1,0 +1,25 @@
+{
+  "name": "dribber",
+  "version": "1.0.0",
+  "description": "Focused Community",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.1",
+    "discord.js": "^13.17.1",
+    "dotenv": "^16.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angstang/dribber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angstang/dribber/issues"
+  },
+  "homepage": "https://github.com/angstang/dribber#readme",
+  "keywords": []
+}
